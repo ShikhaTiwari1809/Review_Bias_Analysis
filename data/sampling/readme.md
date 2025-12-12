@@ -1,0 +1,1 @@
+Data is sampled from 'original_data_200' to take only 150 random samples and output the new file 'sampled_data.csv'. New file contains a column called 'bias_result' which indicates if the review is biased or not .
