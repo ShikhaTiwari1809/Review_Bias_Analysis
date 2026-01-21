@@ -1,0 +1,67 @@
+Heading,Description
+Reviewer Self-Admitted Low Understanding vs Strong Judgment,"Reviewer states:
+
+“I probably didn’t understand this paper”
+
+“I didn’t carefully check the math”
+
+“I skimmed parts of the paper”
+
+AND still gives a strong accept or strong reject recommendation"
+Review Length vs Strength of Decision,"Review is <100–200 words but gives:
+
+Strong Accept
+
+Strong Reject"
+One-Sided Reviews (All Praise or All Criticism),"Review contains only positives or only negatives.
+
+No mention of: Strengths and weaknesses.
+
+One-sided reviews often reflect confirmation bias or emotional reactions."
+Generic Criticism Without Evidence,"Flag if reviewer uses repeated vague phrases such as:
+
+“Unclear” , “Not convincing”, “Weak”, “Incremental”, “Lacks novelty”
+
+AND
+
+Does not cite: Section numbers or Figures or Tables or Specific claims"
+Harsh or Absolute Language Without Justification,"Flag if reviewer uses language such as:
+
+“Should not be published”, “Fundamentally flawed”, “Completely incorrect”
+, “Useless contribution”
+
+WITHOUT
+
+Technical explanation or Evidence or References"
+Complaints About Experiments or Baselines Without Constructive Guidance,"Flag if reviewer says:
+
+“Missing baselines”, “Experiments are limited”, “Evaluation is insufficient”
+
+BUT
+
+Does not specify: Which baselines, datasets, metrics, prior work to compare against"
+Over-Focus on Minor Issues With Strong Negative Ratings,"Review focuses heavily on:
+
+Typos, Formatting, Writing style
+
+While ignoring:
+
+Core methodology, Results, Contributions"
+Confidence–Rating Mismatch,"Low confidence score (e.g., 1–2)
+
+Paired with extreme decisions:
+
+Strong accept
+
+Strong reject"
+Vague Claims About Missing or Ignored Prior Work,"Flag if reviewer says:
+
+“Authors ignore prior work”
+
+“Well-known methods already exist”
+
+“This has been done before”
+
+BUT
+
+Provides no citations."
